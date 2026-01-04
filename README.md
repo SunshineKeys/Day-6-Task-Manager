@@ -1,34 +1,33 @@
-# Task Manager CLI (Python)
 
-A command-line task manager built in Python that allows users to create, view, and complete tasks with persistent storage using JSON.
+---
 
-This project demonstrates structured program design, state management, and real-world workflow modeling.
+## ✅ Day 6 — Task Manager CLI (JSON Persistence)  
+**Repo:** `Day-6-Task-Manager`
+
+```md
+# Task Manager CLI
+
+A menu-driven task manager built with Python that allows users to create, update, and manage tasks with persistent storage using JSON.
+
+---
 
 ## Features
-- Add new tasks
-- View all tasks
+- Add, view, and delete tasks
 - Mark tasks as complete
-- Save and load tasks automatically using a JSON file
+- Persistent data storage using JSON
+- Clean CLI menu system
+
+---
 
 ## Technologies Used
 - Python
 - JSON file handling
-- Command-line interface (CLI)
+- Command Line Interface (CLI)
+
+---
 
 ## How to Run
-1. Clone the repository
-2. Navigate to the project folder
-3. Run:
 
-   python task_manager.py
-
-4. Follow the interactive menu prompts
-
-## Project Context
-Built as part of an **8-Day Python Hireability Sprint**, focusing on:
-- Data structures (lists & dictionaries)
-- File I/O and persistence
-- Input validation
-- Clean, user-friendly CLI workflows
-
-This project models the type of internal tools commonly used for task tracking and operational support.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/SunshineKeys/Day-6-Task-Manager
